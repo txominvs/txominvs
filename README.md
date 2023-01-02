@@ -1,5 +1,7 @@
-I am a Data Scientist and Physicist.
+# Hi! I'm Txomin 👋
 
-- ✨ I know my way around Python, SQL and Fortran
-- 🥷🏻 Quantum Physics ninja
+I am a Physicist and Data Scientist.
+
+- ✨ I know my way around Python, SQL and Fortran.
+- 🥷🏻 Quantum Physics ninja.
 - 🚀 Always happy to learn new things!
